@@ -1,0 +1,80 @@
+﻿div.column1, column2, column3 {
+    display: inline-block;
+    width: 33%;
+    padding: 5px;
+}
+
+div#TreeCategories, div#TemplateTree {
+    border: 1px solid #d5d0d0;
+    overflow: scroll;
+    height: 200px;
+    padding: 5px;
+}
+
+.tt-inner {
+    display: inline-block;
+    line-height: 12px;
+    padding-top: 5px;
+}
+
+    .tt-inner img {
+        border: 0;
+    }
+
+.disnone {
+    display: none;
+}
+
+.tabMetaDataTreeSection, .tabTemplateTreeSection {
+    display: inline-block;
+    vertical-align: top;
+    min-height: 330px;
+    width: 400px;
+    margin-top: 5px;
+}
+
+.templateSection, .templatePreviewSection, .termLanguageSection, .termMetaDataProperties, .tabImportExporttExportSection, .exportPreviewSection {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+.templatePreviewSection {
+    margin-top: 30px;
+    border: 1px solid gray;
+    padding: 10px;
+    height: 295px;
+    width: 250px;
+    overflow: scroll;
+}
+
+.exportPreviewSection {
+    margin-top: 30px;
+    border: 1px solid gray;
+    padding: 10px;
+    height: 295px;
+    width: 250px;
+    overflow: scroll;
+}
+
+.loader-tb-data {
+    width: 20px;
+    padding: 3px;
+    float: right;
+}
+
+.dlg {
+    padding: 5px;
+}
+
+.mms-item {
+    display: inline-block;
+    background-color: #E3E9F5;
+    padding: 5px;
+    margin: 5px;
+}
+
+.ms-status-red {
+    background-color: rgb(248, 212, 212);
+    border-color: rgb(245, 166, 167);
+}

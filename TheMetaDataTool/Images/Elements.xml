@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="Images\AppIcon.png" Url="Images/AppIcon.png" ReplaceContent="TRUE" />
+    <File Path="Images\init.gif" Url="Images/init.gif" ReplaceContent="TRUE" />
+    <File Path="Images\Loading.GIF" Url="Images/Loading.GIF" ReplaceContent="TRUE" />
+    <File Path="Images\settings.png" Url="Images/settings.png" ReplaceContent="TRUE" />
+    <File Path="Images\properties32.png" Url="Images/properties32.png" ReplaceContent="TRUE" />
+    <File Path="Images\data32.png" Url="Images/data32.png" ReplaceContent="TRUE" />
+    <File Path="Images\home32.png" Url="Images/home32.png" ReplaceContent="TRUE" />
+    <File Path="Images\importexport32.png" Url="Images/importexport32.png" ReplaceContent="TRUE" />
+    <File Path="Images\templates32.png" Url="Images/templates32.png" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

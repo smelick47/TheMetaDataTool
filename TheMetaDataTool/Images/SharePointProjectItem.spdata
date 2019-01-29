@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Images\" Type="ElementManifest" />
+    <ProjectItemFile Source="AppIcon.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="init.gif" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="Loading.GIF" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="settings.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="properties32.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="data32.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="home32.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="importexport32.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="templates32.png" Target="Images\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

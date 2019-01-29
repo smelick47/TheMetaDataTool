@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
+    <ProjectItemFile Source="jquery-2.0.3.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery.blockUI.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="Debug\INIT.debug.js" Target="Scripts\Debug\" Type="ElementFile" />
+    <ProjectItemFile Source="Debug\MicrosoftAjax.js" Target="Scripts\Debug\" Type="ElementFile" />
+    <ProjectItemFile Source="Debug\SP.Core.debug.js" Target="Scripts\Debug\" Type="ElementFile" />
+    <ProjectItemFile Source="Debug\SP.debug.js" Target="Scripts\Debug\" Type="ElementFile" />
+    <ProjectItemFile Source="Debug\SP.Runtime.debug.js" Target="Scripts\Debug\" Type="ElementFile" />
+    <ProjectItemFile Source="Debug\SP.Taxonomy.debug.js" Target="Scripts\Debug\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery.easyui.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="ScriptBase.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="Pages\App.min.js" Target="Scripts\Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="Pages\Common.min.js" Target="Scripts\Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="Pages\SPA.min.js" Target="Scripts\Pages\" Type="ElementFile" />
+    <ProjectItemFile Source="Base64.min.js" Target="Scripts\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

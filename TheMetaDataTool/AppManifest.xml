@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
+     Name="TheMetaDataTool"
+     ProductID="{70ADE63F-EB8B-4347-B6AC-A01FBB4869ED}"
+     Version="1.0.1.0"
+     SharePointMinVersion="15.0.0.0"
+>
+  <Properties>
+    <Title>TheMetaDataTool</Title>
+    <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
+    <SupportedLocales>
+      <SupportedLocale CultureName="en-US" />
+    </SupportedLocales>
+  </Properties>
+
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+  <AppPermissionRequests AllowAppOnlyPolicy="false">
+    <AppPermissionRequest Scope="http://sharepoint/taxonomy" Right="Write" />
+  </AppPermissionRequests>
+</App>

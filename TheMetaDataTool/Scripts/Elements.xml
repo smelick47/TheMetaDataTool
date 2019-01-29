@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\jquery-2.0.3.min.map" Url="Scripts/jquery-2.0.3.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery.blockUI.min.js" Url="Scripts/jquery.blockUI.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Debug\INIT.debug.js" Url="Scripts/Debug/INIT.debug.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Debug\MicrosoftAjax.js" Url="Scripts/Debug/MicrosoftAjax.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Debug\SP.Core.debug.js" Url="Scripts/Debug/SP.Core.debug.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Debug\SP.debug.js" Url="Scripts/Debug/SP.debug.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Debug\SP.Runtime.debug.js" Url="Scripts/Debug/SP.Runtime.debug.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Debug\SP.Taxonomy.debug.js" Url="Scripts/Debug/SP.Taxonomy.debug.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery.easyui.min.js" Url="Scripts/jquery.easyui.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\ScriptBase.js" Url="Scripts/ScriptBase.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Pages\App.min.js" Url="Scripts/Pages/App.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Pages\Common.min.js" Url="Scripts/Pages/Common.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Pages\SPA.min.js" Url="Scripts/Pages/SPA.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Base64.min.js" Url="Scripts/Base64.min.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

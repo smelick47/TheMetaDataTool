@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="Configs" OnQuickLaunch="FALSE" TemplateType="10002" Url="Lists/Configs"  Description="" Hidden="TRUE">
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name="Title">Init</Field>
+          <Field Name="ConfigItem">0</Field>
+        </Row>
+      </Rows>
+    </Data>
+  </ListInstance>
+</Elements>
